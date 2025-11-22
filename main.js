@@ -1,0 +1,3 @@
+// ternary
+//condition ? "true" : "false"
+
